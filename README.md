@@ -1,8 +1,13 @@
-<h1 align:'center'>
-  <img src="http://1.bp.blogspot.com/-BXw5XGA1lnk/U-EBIF_tMCI/AAAAAAAAAQs/a_bnSg5lyyY/s1600/pikachu-4.gif" width="100">
-     Hello I'm Gabriel de Oliveira 
+<h1 align="center">
+<img src="http://1.bp.blogspot.com/-BXw5XGA1lnk/U-EBIF_tMCI/AAAAAAAAAQs/a_bnSg5lyyY/s1600/pikachu-4.gif" width="100">
+    Hello I'm Gabriel de Oliveira 
   <img src="https://www.pkparaiso.com/imagenes/xy/sprites/animados/eevee-3.gif" width="100">
   </h1>
+<h3 align="center">desenvolvedor web</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
 <!--
 **Gabriel-0100111101010010/Gabriel-0100111101010010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
