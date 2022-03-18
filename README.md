@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Dev-Oliveira&show_icons=true&theme=github_dark)
-<img align="left" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Dev-Oliveira&layout=compact" />
+<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Dev-Oliveira&layout=compact" />
       
 ## <br /> Entre em contato comigo
 
