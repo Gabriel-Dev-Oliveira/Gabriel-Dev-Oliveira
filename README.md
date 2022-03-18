@@ -1,6 +1,6 @@
-<h1 aling="center">
+<h1 style="text-align:'center'">
   <img src="http://1.bp.blogspot.com/-BXw5XGA1lnk/U-EBIF_tMCI/AAAAAAAAAQs/a_bnSg5lyyY/s1600/pikachu-4.gif" width="150">
-  Hello I'm Gabriel de Oliveira <img src="https://www.pkparaiso.com/imagenes/xy/sprites/animados/eevee-3.gif" width="150">
+     Hello I'm Gabriel de Oliveira <img src="https://www.pkparaiso.com/imagenes/xy/sprites/animados/eevee-3.gif" width="150">
   </h1>
 
 <!--
@@ -57,4 +57,4 @@ Here are some ideas to get you started:
 ## <br /> Sistema Operacional
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Gabriel-Dev-Oliveira00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Gabriel-Dev-Oliveira&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
