@@ -1,7 +1,7 @@
 <h1 style="text-align:'center'">
   <img src="http://1.bp.blogspot.com/-BXw5XGA1lnk/U-EBIF_tMCI/AAAAAAAAAQs/a_bnSg5lyyY/s1600/pikachu-4.gif" width="150">
      Hello I'm Gabriel de Oliveira <img src="https://www.pkparaiso.com/imagenes/xy/sprites/animados/eevee-3.gif" width="150">
-  </h1>
+  </h1> </br>
 
 <!--
 **Gabriel-0100111101010010/Gabriel-0100111101010010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Dev-Oliveira&show_icons=true&theme=github_dark)
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Dev-Oliveira&layout=compact" />
-
+</br>
 ## <br /> Entre em contato comigo
 
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
