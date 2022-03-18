@@ -56,3 +56,5 @@ Here are some ideas to get you started:
 
 ## <br /> Sistema Operacional
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Gabriel-0100111101010010-0710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
