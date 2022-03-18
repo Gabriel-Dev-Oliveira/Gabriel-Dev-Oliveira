@@ -1,6 +1,7 @@
 <h1 align:'center'>
   <img src="http://1.bp.blogspot.com/-BXw5XGA1lnk/U-EBIF_tMCI/AAAAAAAAAQs/a_bnSg5lyyY/s1600/pikachu-4.gif" width="100">
-     Hello I'm Gabriel de Oliveira <img src="https://www.pkparaiso.com/imagenes/xy/sprites/animados/eevee-3.gif" width="100">
+     Hello I'm Gabriel de Oliveira 
+  <img src="https://www.pkparaiso.com/imagenes/xy/sprites/animados/eevee-3.gif" width="100">
   </h1>
 
 <!--
@@ -17,8 +18,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Dev-Oliveira&show_icons=true&theme=github_dark)
-<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Dev-Oliveira&layout=compact" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Dev-Oliveira&show_icons=true&theme=midnight-purple)
+<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Dev-Oliveira&layout=midnight-purple" />
       
 ## <br /> Entre em contato comigo
 
