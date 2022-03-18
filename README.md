@@ -1,6 +1,6 @@
 <h1 aling="center">
-  <img src="https://media2.giphy.com/media/FL3Irmy2uFILm/giphy.gif?cid=ecf05e47m0b0loz56me5l7n551ou83yofqisesczoxaqmyrw&rid=giphy.gif&ct=g" width="100">
-  Hello I'm Gabriel de Oliveira <img scr="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+  <img src="http://1.bp.blogspot.com/-BXw5XGA1lnk/U-EBIF_tMCI/AAAAAAAAAQs/a_bnSg5lyyY/s1600/pikachu-4.gif" width="150">
+  Hello I'm Gabriel de Oliveira <img src="https://www.pkparaiso.com/imagenes/xy/sprites/animados/eevee-3.gif" width="150">
   </h3>
 
 <!--
@@ -17,3 +17,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Anurag's GitHub stats](https://github-padme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Leonardo-Lourenco&show_icons=true&theme=radical " />
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Lourenco&layout=compact" />
+
+<img align="left" src="https://img.shields.io/badge/javascript-%23323330. svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+
+<img align="left" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+
+<img src="https://img.shields.i0/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
