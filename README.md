@@ -1,7 +1,7 @@
 <h1 aling="center">
   <img src="http://1.bp.blogspot.com/-BXw5XGA1lnk/U-EBIF_tMCI/AAAAAAAAAQs/a_bnSg5lyyY/s1600/pikachu-4.gif" width="150">
   Hello I'm Gabriel de Oliveira <img src="https://www.pkparaiso.com/imagenes/xy/sprites/animados/eevee-3.gif" width="150">
-  </h3>
+  </h1>
 
 <!--
 **Gabriel-0100111101010010/Gabriel-0100111101010010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,14 +17,42 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-padme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-0100111101010010&show_icons=true&theme=github_dark)
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-0100111101010010&layout=compact" />
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Leonardo-Lourenco&show_icons=true&theme=radical " />
+## <br /> Entre em contato comigo
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Lourenco&layout=compact" />
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
-<img align="left" src="https://img.shields.io/badge/javascript-%23323330. svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+## <br /> Minhas linguagens
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<img align="left" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+## <br /> Banco de Dados
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-<img src="https://img.shields.i0/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
+## <br /> Adobe
+![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+
+## <br /> Desing
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+## <br /> Estudos
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
+
+## <br /> Microsoft
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+
+## <br /> Version Control
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+## <br /> Sistema Operacional
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
