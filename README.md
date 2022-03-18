@@ -1,4 +1,7 @@
-### Hi there 👋
+<h1 aling="center">
+  <img src="https://media2.giphy.com/media/FL3Irmy2uFILm/giphy.gif?cid=ecf05e47m0b0loz56me5l7n551ou83yofqisesczoxaqmyrw&rid=giphy.gif&ct=g" width="100">
+  Hello I'm Gabriel de Oliveira <img scr="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+  </h3>
 
 <!--
 **Gabriel-0100111101010010/Gabriel-0100111101010010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
