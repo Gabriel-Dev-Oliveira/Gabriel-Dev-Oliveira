@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Dev-Oliveira&show_icons=true&theme=midnight-purple)
- <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Dev-Oliveira&layout=compact&langs_count=7&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true"/>
+ <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Dev-Oliveira&layout=compact&langs_count=7&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true"/>
       
 ## <br /> Entre em contato comigo / contact me
 
