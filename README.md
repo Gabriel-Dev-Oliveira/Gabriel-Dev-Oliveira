@@ -75,3 +75,7 @@ Here are some ideas to get you started:
    </h3>
   </p>
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
