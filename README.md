@@ -67,3 +67,11 @@ Here are some ideas to get you started:
 ![Snake animation](https://github.com/Gabriel-Dev-Oliveira/Gabriel-Dev-Oliveira/blob/output/github-contribution-grid-snake.svg) 
 
 ##
+
+<h3>
+   Total de Visitas no perfil <br>
+   <p align="center">
+     <img alingn="center" src="https://profile-counter.glitch.me/Gabriel-Dev-Oliveira/count.svg" />
+   </h3>
+  </p>
+</div>
