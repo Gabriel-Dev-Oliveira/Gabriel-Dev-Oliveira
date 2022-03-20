@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 
 ##
 
-<h3>
+<h3 align="center">
   :mag: Total de Visitas no perfil :mag: <br>
    <p align="center">
      <img alingn="center" src="https://profile-counter.glitch.me/Gabriel-Dev-Oliveira/count.svg" />
@@ -76,11 +76,6 @@ Here are some ideas to get you started:
   </p>
 </div>
 
-<!--
-<p>
-  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:Gabriel-Dev-Oliveira"></a>
-</p>
---!>
 
 <p align="center" width=100%>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
