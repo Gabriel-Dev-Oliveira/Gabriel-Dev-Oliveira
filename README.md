@@ -72,6 +72,7 @@ Here are some ideas to get you started:
   :mag: Total de Visitas no perfil :mag: <br>
    <p align="center">
      <img alingn="center" src="https://profile-counter.glitch.me/Gabriel-Dev-Oliveira/count.svg" />
+       <a href="https://www.webcontadores.com" title="contador para blog"><img src="https://counter9.stat.ovh/private/webcontadores.php?c=53hzdyqflszgzhrqw5q7z1yhtyhrtx6r" border="0" title="contador para blog" alt="contador para blog"></a>
    </h3>
   </p>
 </div>
@@ -80,3 +81,4 @@ Here are some ideas to get you started:
 <p align="center" width=100%>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
+
