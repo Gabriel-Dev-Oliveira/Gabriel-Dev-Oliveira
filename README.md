@@ -3,7 +3,7 @@
     Hello I'm Gabriel de Oliveira 
   <img src="https://www.pkparaiso.com/imagenes/xy/sprites/animados/eevee-3.gif" width="100">
   </h1>
-<h3 align="center">desenvolvedor web</h3>
+<h3 align="center">Web developer</h3>
 
 <!--
 **Gabriel-0100111101010010/Gabriel-0100111101010010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
