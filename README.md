@@ -58,11 +58,9 @@ Here are some ideas to get you started:
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ##
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Gabriel-Dev-Oliveira&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
+<!--[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Gabriel-Dev-Oliveira&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ##
-
+-->
 ![Snake animation](https://github.com/Gabriel-Dev-Oliveira/Gabriel-Dev-Oliveira/blob/output/github-contribution-grid-snake.svg) 
 
 ##
