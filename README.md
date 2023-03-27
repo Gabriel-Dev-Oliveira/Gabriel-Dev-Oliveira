@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Dev-Oliveira&show_icons=true&theme=midnight-purple)
- <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Dev-Oliveira&layout=compact&langs_count=7&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=gabriel-dev-oliveira&theme=midnight-purple">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Dev-Oliveira&layout=compact&langs_count=7&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=gabriel-dev-oliveira&theme=midnight-purple">
       
 ## <br /> :calling: Entre em contato comigo / contact me :calling:
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5515996567821&text=Ol%C3%A1%2C%20vim%20do%20seu%20perfil%20do%20Github)
