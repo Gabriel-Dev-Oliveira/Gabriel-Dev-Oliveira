@@ -24,7 +24,7 @@ Here are some ideas to get you started:
  <img src="https://github-readme-streak-stats.herokuapp.com?user=gabriel-dev-oliveira&theme=midnight-purple">
       
 ## <br /> :calling: Entre em contato comigo / contact me :calling:
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5515996567821&text=Ol%C3%A1%2C%20vim%20do%20seu%20perfil%20do%20Github)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5515991879459&text=Ol%C3%A1%2C%20vim%20do%20seu%20perfil%20do%20Github)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-oliveira-688aa4219/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.de.oliveira.email@gmail.com)
 
