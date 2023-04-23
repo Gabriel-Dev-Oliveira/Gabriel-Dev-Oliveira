@@ -22,6 +22,9 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Dev-Oliveira&show_icons=true&theme=midnight-purple)
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Dev-Oliveira&layout=compact&langs_count=7&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true"/>
  <img src="https://github-readme-streak-stats.herokuapp.com?user=gabriel-dev-oliveira&theme=midnight-purple">
+ 
+ <br /> <h1 align="center"> 📈 activity chart / gráfico de atividade 📈 </h1>
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gabriel-dev-oliveira&theme=modern-lilac)](https://github.com/ashutosh00710/github-readme-activity-graph)
       
 ## <br /> :calling: Entre em contato comigo / contact me :calling:
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5515991879459&text=Ol%C3%A1%2C%20vim%20do%20seu%20perfil%20do%20Github)
@@ -59,8 +62,6 @@ Here are some ideas to get you started:
 ## <br />:cd: Sistema Operacional / Operational system 	:cd:
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-##
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gabriel-dev-oliveira&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ##
 
