@@ -24,7 +24,7 @@ Here are some ideas to get you started:
  <img src="https://github-readme-streak-stats.herokuapp.com?user=gabriel-dev-oliveira&theme=midnight-purple">
  
  <br /> <h1 align="center"> 📈 activity chart / gráfico de atividade 📈 </h1>
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gabriel-dev-oliveira&theme=modern-lilac)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gabriel-dev-oliveira&theme=modern-lilac)](https://github.com/ashutosh00710/github-readme-activity-graph)
       
 ## <br /> :calling: Entre em contato comigo / contact me :calling:
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5515991879459&text=Ol%C3%A1%2C%20vim%20do%20seu%20perfil%20do%20Github)
